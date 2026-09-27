@@ -12,7 +12,9 @@
 Build Instructions-
 
 1)Compile using - gcc -Wall -std=c99 uart_parser.c -o uart_parser
+
 2)Run using command - ./uart_parser
 
 Output-
+
 <img width="442" height="474" alt="image" src="https://github.com/user-attachments/assets/b0b30833-8d24-4b69-84cf-8ab6b395e0ac" />
