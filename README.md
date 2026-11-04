@@ -9,6 +9,7 @@
 7)The parser also monitors the time between bytes and resets if the configured timeout is exceeded.
 8)After completing or resetting a frame, it returns to the SOF state and waits for the next frame.
 
+
 Build Instructions-
 
 1)Compile using - gcc -Wall -std=c99 uart_parser.c -o uart_parser
